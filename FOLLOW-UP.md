@@ -1,13 +1,7 @@
 # Follow-up Questions
 
-```
-Use this document to answer any follow-up questions.
-```
-
-### Follow Up Questions:
-
 1. What libraries did you use? Why did you use them?
-  - angular-Materialize, bc they have all the tools and components already build
+  <span style="color:blue">- angular-Materialize, bc they have all the tools and components already build</span>
 
 2. If you had more time, what further improvements or new features would you add?
   - I will improve the design with better colors and styles, add more filters.
